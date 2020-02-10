@@ -8,7 +8,7 @@
 
 import UIKit
 import AVFoundation
-
+//class
 class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
     var audioPlayer = AVAudioPlayer()
